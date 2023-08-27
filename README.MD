@@ -17,7 +17,7 @@ Features:
 - Page loading state
 - Stripe payment
 - How to write POST, DELETE, and GET routes in route handlers (app/api)
-- How to fetch data in server react components by directly accessing database (WITHOUT API! like Magic!)
+- How to fetch data in server react components by directly accessing database 
 - How to handle relations between Server and Child components!
 - How to reuse layouts
 - strapi cms for fast data access
