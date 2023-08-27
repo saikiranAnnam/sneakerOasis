@@ -1,10 +1,10 @@
-#Sneaker Oasis
+# Sneaker Oasis
 
 <img width="1440" alt="Screenshot 2023-08-24 at 8 02 14 PM (2)" src="https://github.com/saikiranAnnam/sneakerOasis/assets/135786369/257e1432-7e69-4ca7-aa7c-ae42b9716210">
 
 This is a repository for Build a ecommerce  shopping Platform with Next.js 13, React, Tailwind, Strapi, cloundnariy, Stripe.
 
-screen recording [Sneaker Oasis] (https://drive.google.com/file/d/14VE5JeJMWZp196PYxTXWRGEgCpJXCIPB/view?usp=sharing).
+screen recording [Sneaker Oasis](https://drive.google.com/file/d/14VE5JeJMWZp196PYxTXWRGEgCpJXCIPB/view?usp=sharing).
 
 website live preview [live demo](https://sneakeroasis.vercel.app/).
 
