@@ -6,7 +6,7 @@ This is a repository for Build a ecommerce  shopping Platform with Next.js 13, R
 
 screen recording [Sneaker Oasis](https://drive.google.com/file/d/14VE5JeJMWZp196PYxTXWRGEgCpJXCIPB/view?usp=sharing).
 
-website live preview [live demo](https://sneakeroasis.vercel.app/).
+website live preview [Sneaker Oasis](https://sneakeroasis.vercel.app/).
 
 
 
